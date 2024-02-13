@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>External Tool</Name>
+    <Assembly>C:\Users\kozlovskiy\_Проекты\VisualStudio\Высоцкий+Фокин\Решение\RevitAPI Basic Course\RevitAPI Basic Course\bin\Debug\RevitAPI Basic Course.dll</Assembly>
+    <ClientId>1d50e02f-5a7c-475a-8c69-ec92c0019df9</ClientId>
+    <FullClassName>RevitAPI_Basic_Course.Application</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Assembly>C:\Users\kozlovskiy\_Проекты\VisualStudio\Высоцкий+Фокин\Решение\RevitAPI Basic Course\RevitAPI Basic Course\bin\Debug\RevitAPI Basic Course.dll</Assembly>
+    <ClientId>c4c1801d-6dc6-4c8f-8a59-daf6419864d4</ClientId>
+    <FullClassName>RevitAPI_Basic_Course.Lab0402_HelloWorld</FullClassName>
+    <Text>Lab0402_HelloWorld</Text>
+    <Description>""</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Assembly>C:\Users\kozlovskiy\_Проекты\VisualStudio\Высоцкий+Фокин\Решение\RevitAPI Basic Course\RevitAPI Basic Course\bin\Debug\RevitAPI Basic Course.dll</Assembly>
+    <ClientId>3d703aca-ea19-460d-adf1-2fb87bb750c2</ClientId>
+    <FullClassName>RevitAPI_Basic_Course.HelloWord2</FullClassName>
+    <Text>HelloWord2</Text>
+    <Description>""</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Assembly>C:\Users\kozlovskiy\_Проекты\VisualStudio\Высоцкий+Фокин\Решение\RevitAPI Basic Course\RevitAPI Basic Course\bin\Debug\RevitAPI Basic Course.dll</Assembly>
+    <ClientId>ea1609dd-d85e-40ff-92ad-c106f0e5857e</ClientId>
+    <FullClassName>RevitAPI_Basic_Course.DiologForm</FullClassName>
+    <Text>DiologForm</Text>
+    <Description>""</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Assembly>C:\Users\kozlovskiy\_Проекты\VisualStudio\Высоцкий+Фокин\Решение\RevitAPI Basic Course\RevitAPI Basic Course\bin\Debug\RevitAPI Basic Course.dll</Assembly>
+    <ClientId>ffaec192-f9e4-41b4-8379-31a34d94bcb4</ClientId>
+    <FullClassName>RevitAPI_Basic_Course.Lab0502_Transaction</FullClassName>
+    <Text>Lab0502_Transaction</Text>
+    <Description>""</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Assembly>C:\Users\kozlovskiy\_Проекты\VisualStudio\Высоцкий+Фокин\Решение\RevitAPI Basic Course\RevitAPI Basic Course\bin\Debug\RevitAPI Basic Course.dll</Assembly>
+    <ClientId>e2727cc2-056d-4fc1-90c6-364e0a139043</ClientId>
+    <FullClassName>RevitAPI_Basic_Course.Lab0503_FilteredElementCollector</FullClassName>
+    <Text>Lab0503_FilteredElementCollector</Text>
+    <Description>""</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
