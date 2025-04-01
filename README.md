@@ -2,7 +2,7 @@
 
 Вкладка содержит 4 кнопки:
 
-![Картинка](https://github.com/AndreyArduino86/RevitAPI-Basic-Course/plugin for revit.png)
+![Картинка](https://github.com/AndreyArduino86/RevitAPI-Basic-Course/blob/057f6a6870939cf9b24d0dd0d0f05c6715b9f2b6/plugin%20for%20revit.png)
 
 ***
 1. Команда 1.
