@@ -2,7 +2,7 @@
 
 Вкладка содержит 4 кнопки:
 
-![Картинка](RevitAPI-Basic-Course/plugin for revit.png)
+!(RevitAPI-Basic-Course/plugin for revit.png)
 
 ***
 1. Команда 1.
