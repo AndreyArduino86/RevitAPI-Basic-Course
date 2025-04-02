@@ -1,0 +1,11 @@
+C:\Users\kozlovskiy\_Проекты\VisualStudio\Высоцкий+Фокин\Решение\RevitAPI Basic Course\RevitAPI Basic Course\bin\Release\RevitAPI Basic Course.dll
+C:\Users\kozlovskiy\_Проекты\VisualStudio\Высоцкий+Фокин\Решение\RevitAPI Basic Course\RevitAPI Basic Course\bin\Release\RevitAPI Basic Course.pdb
+C:\Users\kozlovskiy\_Проекты\VisualStudio\Высоцкий+Фокин\Решение\RevitAPI Basic Course\RevitAPI Basic Course\obj\Release\RevitAPI Basic Course.csproj.AssemblyReference.cache
+C:\Users\kozlovskiy\_Проекты\VisualStudio\Высоцкий+Фокин\Решение\RevitAPI Basic Course\RevitAPI Basic Course\obj\Release\UserControl1.g.cs
+C:\Users\kozlovskiy\_Проекты\VisualStudio\Высоцкий+Фокин\Решение\RevitAPI Basic Course\RevitAPI Basic Course\obj\Release\RevitAPI Basic Course_MarkupCompile.cache
+C:\Users\kozlovskiy\_Проекты\VisualStudio\Высоцкий+Фокин\Решение\RevitAPI Basic Course\RevitAPI Basic Course\obj\Release\RevitAPI Basic Course_MarkupCompile.lref
+C:\Users\kozlovskiy\_Проекты\VisualStudio\Высоцкий+Фокин\Решение\RevitAPI Basic Course\RevitAPI Basic Course\obj\Release\UserControl1.baml
+C:\Users\kozlovskiy\_Проекты\VisualStudio\Высоцкий+Фокин\Решение\RevitAPI Basic Course\RevitAPI Basic Course\obj\Release\RevitAPI Basic Course.g.resources
+C:\Users\kozlovskiy\_Проекты\VisualStudio\Высоцкий+Фокин\Решение\RevitAPI Basic Course\RevitAPI Basic Course\obj\Release\RevitAPI Basic Course.csproj.CoreCompileInputs.cache
+C:\Users\kozlovskiy\_Проекты\VisualStudio\Высоцкий+Фокин\Решение\RevitAPI Basic Course\RevitAPI Basic Course\obj\Release\RevitAPI Basic Course.dll
+C:\Users\kozlovskiy\_Проекты\VisualStudio\Высоцкий+Фокин\Решение\RevitAPI Basic Course\RevitAPI Basic Course\obj\Release\RevitAPI Basic Course.pdb
