@@ -11,6 +11,7 @@
 
 2. Команда 2.
 * Окно выбора видов. Необходимо выбрать нужный вид и нажать кнопку Копировать.
+ ![Картинка]( https://github.com/AndreyArduino86/RevitAPI-Basic-Course/blob/badbcbfec68c933185402bba41141dfdf214977d/window%20copy%20view.png)
 ***
 3. Команда 3.
 * Выдает список уровней в модели.
